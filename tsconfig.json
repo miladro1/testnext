@@ -1,0 +1,65 @@
+{
+  "compilerOptions": {
+    // Specifies the ECMAScript target version for emitted JavaScript code
+    "target": "ES2017",
+
+    // Specifies a list of library files to include in the compilation
+    // - "dom": Includes DOM API types (e.g., `document`, `window`)
+    // - "dom.iterable": Adds iterable support for DOM types like `NodeList`
+    // - "esnext": Enables the latest ECMAScript features
+    "lib": ["dom", "dom.iterable", "esnext"],
+
+    // Allows JavaScript files to be included and type-checked alongside TypeScript files
+    "allowJs": true,
+
+    // Skips type checking for declaration files (.d.ts) to speed up builds
+    "skipLibCheck": true,
+
+    // Enables all strict type-checking options, improving type safety across the project
+    "strict": true,
+
+    // Prevents the compiler from generating JavaScript output files
+    "noEmit": true,
+
+    // Ensures compatibility between CommonJS and ES module imports
+    "esModuleInterop": true,
+
+    // Specifies the module system for the emitted JavaScript code; "esnext" uses the latest ECMAScript modules
+    "module": "esnext",
+
+    // Determines how modules are resolved. "bundler" optimizes resolution for bundlers like Webpack or Vite
+    "moduleResolution": "bundler",
+
+    // Enables importing of JSON files as modules
+    "resolveJsonModule": true,
+
+    // Ensures each file is treated as a standalone module, required for frameworks like Next.js
+    "isolatedModules": true,
+
+    // Preserves JSX syntax for further processing by a bundler or framework like Next.js
+    "jsx": "preserve",
+
+    // Enables incremental builds by caching build information to speed up subsequent compilations
+    "incremental": true,
+
+    // Maps module import paths to specific folders/files for cleaner and shorter import paths
+    // - "@togetherise/*": Maps to "./src/*"
+    "paths": {
+      "@togetherise/*": ["./src/*"]
+    }
+  },
+  "include": [
+    // Includes the Next.js environment types for built-in support
+    "next-env.d.ts",
+
+    // Includes all TypeScript files in the project
+    "**/*.ts",
+
+    // Includes all TypeScript files with JSX (React files)
+    "**/*.tsx"
+  ],
+  "exclude": [
+    // Excludes the node_modules directory from compilation
+    "node_modules"
+  ]
+}

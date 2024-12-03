@@ -1,0 +1,24 @@
+{
+    "common": {
+        "togetherise": "Togetherise",
+        "english":"English",
+        "persian":"فارسی",
+        "dark":"Dark",
+        "light":"Light"
+    },
+    "navbar":{
+        "dashboard": "Dashboard",
+        "investments": "Investments",
+        "investments_plan":"Investment Plan",
+        "auto_invest": "Auto Investment",
+        "wallet": "Wallet",
+        "transactions": " Transactions",
+        "reward": "Reward",
+        "profile": "Profile",
+        "support": "Ticket/Support",
+        "logout": "Logout",
+        "news":"News",
+        "faq":"FAQ",
+        "guide":"Guide"
+    }
+}

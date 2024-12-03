@@ -1,0 +1,25 @@
+{
+    "common": {
+        "togetherise": "Togetherise",
+        "english": "English",
+        "persian": "فارسی",
+        "dark": "تاریک",
+        "light": "روشن"
+    },
+    "navbar": {
+        "dashboard": "داشبورد",
+        "investments": "سرمایه گذاری ها",
+        "investments_plan":"تقویم طرح",
+        "auto_invest": "سرمایه‌گذاری خودکار",
+        "wallet": "کیف پول",
+        "transactions": " تراکنش ها",
+        "reward": "پاداش",
+        "profile": "حساب کاربری",
+        "account_settings": "تنظیمات حساب",
+        "support": "پشتیبانی/تیکت",
+        "logout": "خروج",
+        "news": "اخبار",
+        "faq": "سوالات متداول",
+        "guide": "راهنما"
+    }
+}

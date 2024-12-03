@@ -1,0 +1,118 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: en\n"
+
+# Common Section
+msgid "togetherise"
+msgstr "Togetherise"
+
+msgid "english"
+msgstr "English"
+
+msgid "persian"
+msgstr "فارسی"
+
+msgid "dark"
+msgstr "Dark"
+
+msgid "light"
+msgstr "Light"
+
+# Navbar Section
+msgid "dashboard"
+msgstr "Dashboard"
+
+msgid "investments"
+msgstr "Investments"
+
+msgid "investments_plan"
+msgstr "Investment Plan"
+
+msgid "auto_invest"
+msgstr "Auto Investment"
+
+msgid "wallet"
+msgstr "Wallet"
+
+msgid "transactions"
+msgstr "Transactions"
+
+msgid "reward"
+msgstr "Reward"
+
+msgid "profile"
+msgstr "Profile"
+
+msgid "support"
+msgstr "Ticket/Support"
+
+msgid "logout"
+msgstr "Logout"
+
+msgid "news"
+msgstr "News"
+
+msgid "faq"
+msgstr "FAQ"
+
+msgid "guide"
+msgstr "Guide"
+
+msgid "invest"
+msgstr "Invest"
+
+msgid "raise"
+msgstr "Raise"
+
+msgid "blog"
+msgstr "Blog"
+
+msgid "supportNav"
+msgstr "Support"
+
+msgid "why_trust"
+msgstr "Why Trust"
+
+msgid "invest_eligibility"
+msgstr "Invest Eligibility"
+
+msgid "raise_funds"
+msgstr "Raise Funds"
+
+msgid "franchise_funding"
+msgstr "Franchise Funding"
+
+msgid "fundraising_eligibility"
+msgstr "Fundraising Eligibility"
+
+msgid "apply_for_funding"
+msgstr "Apply for Funding"
+
+msgid "help"
+msgstr "Help"
+
+msgid "contact_us"
+msgstr "Contact Us"
+
+msgid "schedule_meeting"
+msgstr "Schedule Meeting"
+
+msgid "support_learn"
+msgstr "Support & Learn"
+
+msgid "privacy_policy"
+msgstr "Privacy Policy"
+
+msgid "terms_of_use"
+msgstr "Terms of Use"
+
+msgid "legal"
+msgstr "Legal"
+
+msgid "copy_right"
+msgstr "Copyright © 2024 Togetherise Inc., All rights reserved."
+
+msgid "important_notice"
+msgstr "Important Legal Notice and Disclosure: Togetherise Inc., operating under the name Togetherise, is registered as an exempt market dealer in TBA, however, no securities regulatory authority has approved or expressed an opinion about the securities offered on this platform. By accessing this site and any pages thereof, you agree to be bound by its Terms of Use and Privacy Policy.
+Investing in crowdfunding and exempt market offerings has significant risk. Investors may not be able to resell quickly or at all. Exempt market securities may also receive limited ongoing issuer information. You should invest only if you are prepared not to receive any return on your investment and/or lose your investment in its entirety. Please visit our Learning Centre for more information.Important Legal Notice and Disclosure: Togetherise Inc., operating under the name Togetherise, is registered as an exempt market dealer in TBA, however, no securities regulatory authority has approved or expressed an opinion about the securities offered on this platform. By accessing this site and any pages "

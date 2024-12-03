@@ -1,0 +1,118 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: fa\n"
+
+# Common Section
+msgid "togetherise"
+msgstr "توگترایز"
+
+msgid "english"
+msgstr "انگلیسی"
+
+msgid "persian"
+msgstr "فارسی"
+
+msgid "dark"
+msgstr "تاریک"
+
+msgid "light"
+msgstr "روشن"
+
+# Navbar Section
+msgid "dashboard"
+msgstr "داشبورد"
+
+msgid "investments"
+msgstr "سرمایه‌گذاری‌ها"
+
+msgid "investments_plan"
+msgstr "برنامه سرمایه‌گذاری"
+
+msgid "auto_invest"
+msgstr "سرمایه‌گذاری خودکار"
+
+msgid "wallet"
+msgstr "کیف پول"
+
+msgid "transactions"
+msgstr "تراکنش‌ها"
+
+msgid "reward"
+msgstr "پاداش"
+
+msgid "profile"
+msgstr "پروفایل"
+
+msgid "support"
+msgstr "تیکت/پشتیبانی"
+
+msgid "logout"
+msgstr "خروج"
+
+msgid "news"
+msgstr "اخبار"
+
+msgid "faq"
+msgstr "سوالات متداول"
+
+msgid "guide"
+msgstr "راهنما"
+
+msgid "invest"
+msgstr "سرمایه‌گذاری"
+
+msgid "raise"
+msgstr "جمع‌آوری سرمایه"
+
+msgid "blog"
+msgstr "بلاگ"
+
+msgid "supportNav"
+msgstr "پشتیبانی"
+
+msgid "why_trust"
+msgstr "چرا اعتماد کنیم"
+
+msgid "invest_eligibility"
+msgstr "شرایط سرمایه‌گذاری"
+
+msgid "raise_funds"
+msgstr "جمع‌آوری وجوه"
+
+msgid "franchise_funding"
+msgstr "تأمین مالی فرانشیز"
+
+msgid "fundraising_eligibility"
+msgstr "شرایط جمع‌آوری سرمایه"
+
+msgid "apply_for_funding"
+msgstr "درخواست تأمین مالی"
+
+msgid "help"
+msgstr "کمک"
+
+msgid "contact_us"
+msgstr "تماس با ما"
+
+msgid "schedule_meeting"
+msgstr "زمان‌بندی جلسه"
+
+msgid "support_learn"
+msgstr "پشتیبانی و یادگیری"
+
+msgid "privacy_policy"
+msgstr "سیاست حفظ حریم خصوصی"
+
+msgid "terms_of_use"
+msgstr "شرایط استفاده"
+
+msgid "legal"
+msgstr "قانونی"
+
+msgid "copy_right"
+msgstr "کپی‌رایت © ۲۰۲۴ شرکت توگترایز، تمامی حقوق محفوظ است."
+
+msgid "important_notice"
+msgstr "اعلان و افشای قانونی مهم: شرکت توگترایز، که با نام تجاری توگترایز فعالیت می‌کند، به عنوان یک معامله‌گر بازار معاف در TBA ثبت شده است، اما هیچ مرجع نظارتی اوراق بهادار هیچ اوراق بهاداری را که در این پلتفرم عرضه می‌شود تأیید نکرده یا نظری در مورد آن نداده است. با دسترسی به این سایت و هر یک از صفحات آن، شما موافقت می‌کنید که به شرایط استفاده و سیاست حفظ حریم خصوصی آن پایبند باشید.
+سرمایه‌گذاری در تأمین مالی جمعی و پیشنهادات بازار معاف خطرات قابل توجهی دارد. ممکن است سرمایه‌گذاران نتوانند به سرعت یا اصلاً مجدداً بفروشند. اوراق بهادار بازار معاف ممکن است اطلاعات محدودی از ناشر دریافت کنند. شما فقط باید سرمایه‌گذاری کنید اگر آماده نباشید بازدهی دریافت کنید یا سرمایه خود را به طور کامل از دست بدهید. لطفاً برای اطلاعات بیشتر به مرکز یادگیری ما مراجعه کنید."
